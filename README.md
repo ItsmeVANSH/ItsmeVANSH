@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ItsmeVANSH
+- 👋 Hi, I’m Vansh Yadav
 - 👀 I’m interested in webiste devlopment.
 - 🌱 I’m currently learning Python.
 - 📫 You can reach me at yadav.vansh1125@gmail.com
