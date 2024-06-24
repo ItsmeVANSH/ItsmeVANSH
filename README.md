@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Devlopment**
 
-- 📫 How to reach me **itsmevansh1125@gmail.com**
+- 📫 How to reach me **yadav.vansh1125@gmail.com**
 
 - ⚡ Fun fact **I always learn to copy paste.**
 
